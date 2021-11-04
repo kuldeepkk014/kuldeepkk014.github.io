@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: kuldeepkk014.github.io
+Token: 845c6bf996ae20c8b1de2cc12fc80d06d0eee2011bf6bd6d6548b61a05cb3694
